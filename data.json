@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": "#0f1013",
   "secondary_background": "#292933",
-  "button_background": "#8b5cf6",
+  "button_background": "#fdb410",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#fdb410",
+  "cta_background": "#8b5cf6",
   "logo": {
     "url": "/uploads/3cc5ca846b0f041583a641ec37ebd283.webp",
     "alt": "lilu logo"
@@ -242,10 +242,10 @@
       "question": "What is the minimum withdrawal amount at Lilu Casino?"
     }
   ],
-  "_generated_at": "2026-10-21T13:55:19.624Z",
+  "_generated_at": "2026-10-21T13:56:18.342Z",
   "_version": "1.0.0",
   "html_head_alt": "lilu baner",
   "content_alt": "lilu slot",
-  "_last_deploy": "2026-10-21T13:55:20.267Z",
-  "_deploy_trigger": "j56vla"
+  "_last_deploy": "2026-10-21T13:56:18.950Z",
+  "_deploy_trigger": "k7v7w"
 }
