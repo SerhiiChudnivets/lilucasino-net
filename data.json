@@ -100,37 +100,31 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Games",
+      "label": "Bonuses",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Promotions",
+      "label": "Casino Games",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": " Sports",
+      "label": "Live Casino",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "App",
+      "label": "Login",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Payments",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Support",
+      "label": "Slots",
       "submenu": [],
       "openInNewTab": false
     }
@@ -166,11 +160,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
     }
   ],
   "Slots": [
@@ -253,10 +242,10 @@
       "question": "What is the minimum withdrawal amount at Lilu Casino?"
     }
   ],
-  "_generated_at": "2026-10-21T13:50:35.931Z",
+  "_generated_at": "2026-10-21T13:53:58.578Z",
   "_version": "1.0.0",
   "html_head_alt": "lilu baner",
   "content_alt": "lilu slot",
-  "_last_deploy": "2026-10-21T13:50:36.591Z",
-  "_deploy_trigger": "1xzqcd"
+  "_last_deploy": "2026-10-21T13:53:59.213Z",
+  "_deploy_trigger": "907s8"
 }
