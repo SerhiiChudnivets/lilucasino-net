@@ -1,7 +1,7 @@
 {
   "name": "lilucasino.net",
   "site_name": "Lilu Casino Official | Slots, Live Tables & Banking",
-  "html_head": "<link rel=\"canonical\" href=\"https://raptercasino.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://raptercasino.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://raptercasino.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Rapter Casino: Best Games for Players from UK\">\n<meta property=\"og:description\" content=\"Explore Rapter Casino extensive slot library, live dealer games, exclusive bonuses, and secure UK.\">\n<meta property=\"og:url\" content=\"raptercasino.org.uk\">\n<meta property=\"og:site_name\" content=\"Rapter Casino\">\n<meta property=\"og:image\" content=\"https://raptercasino.org.uk//uploads/ad2c87ef3d79404a913c60c626949c9c.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/en-gb/\">\n<link rel=\"alternate\" href=\"https://lilucasino.net/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://lilucasino.net/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to £5,000 + 500 Free Spins with instant £ payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"lilucasino.net\">\n<meta property=\"og:site_name\" content=\"Lilu Casino\">\n<meta property=\"og:image\" content=\"https://lilucasino.net//uploads/5e9e093eb365257fce22f3287e609bb1.webp\">",
   "url": "lilucasino.net",
   "template": "tupchiy",
   "language_code": "en",
@@ -77,14 +77,14 @@
   "home_name": "Lilu Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#080B1C",
-  "secondary_background": "#0B132F",
-  "button_background": "#F77000",
+  "main_background": "#0f1013",
+  "secondary_background": "#292933",
+  "button_background": "#8b5cf6",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#F77000",
+  "cta_background": "#fdb410",
   "logo": {
     "url": "/uploads/3cc5ca846b0f041583a641ec37ebd283.webp",
     "alt": "lilu logo"
@@ -253,10 +253,10 @@
       "question": "What is the minimum withdrawal amount at Lilu Casino?"
     }
   ],
-  "_generated_at": "2026-10-21T13:45:49.977Z",
+  "_generated_at": "2026-10-21T13:50:35.931Z",
   "_version": "1.0.0",
-  "html_head_alt": "rapter baner",
+  "html_head_alt": "lilu baner",
   "content_alt": "lilu slot",
-  "_last_deploy": "2026-10-21T13:45:54.659Z",
-  "_deploy_trigger": "k4xztw"
+  "_last_deploy": "2026-10-21T13:50:36.591Z",
+  "_deploy_trigger": "1xzqcd"
 }
