@@ -1,7 +1,7 @@
 {
   "name": "lilucasino.net",
   "site_name": "Lilu Casino Official | Slots, Live Tables & Banking",
-  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<link rel=\"alternate\" href=\"https://lilucasino.net/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://lilucasino.net/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"lilucasino.net\">\n<meta property=\"og:site_name\" content=\"Lilu Casino\">\n<meta property=\"og:image\" content=\"https://lilucasino.net//uploads/5e9e093eb365257fce22f3287e609bb1.webp\">",
+  "html_head": "<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
   "url": "lilucasino.net",
   "template": "tupchiy",
   "language_code": "en",
@@ -242,10 +242,9 @@
       "question": "What is the minimum withdrawal amount at Lilu Casino?"
     }
   ],
-  "_generated_at": "2026-10-23T13:12:20.727Z",
+  "_generated_at": "2026-10-23T13:27:29.661Z",
   "_version": "1.0.0",
-  "html_head_alt": "lilu baner",
   "content_alt": "lilu slot",
-  "_last_deploy": "2026-10-23T13:12:21.394Z",
-  "_deploy_trigger": "u9hq4h"
+  "_last_deploy": "2026-10-23T13:27:30.373Z",
+  "_deploy_trigger": "vi6kw4"
 }
