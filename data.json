@@ -1,11 +1,11 @@
 {
   "name": "lilucasino.net",
   "site_name": "Lilu Casino Official | Slots, Live Tables & Banking",
-  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
+  "html_head": "<meta name=\"google-site-verification\" content=\"u7v9BAmdRFT0KxUD4BDklKmdejDEf_QyQ4ql4CncPqg\" />\n<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
   "url": "lilucasino.net",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": false,
@@ -242,9 +242,9 @@
       "question": "What is the minimum withdrawal amount at Lilu Casino?"
     }
   ],
-  "_generated_at": "2026-10-23T14:48:58.003Z",
+  "_generated_at": "2026-10-23T14:55:50.024Z",
   "_version": "1.0.0",
   "content_alt": "lilu slot",
-  "_last_deploy": "2026-10-23T14:48:58.758Z",
-  "_deploy_trigger": "u3bpe"
+  "_last_deploy": "2026-10-23T14:55:50.754Z",
+  "_deploy_trigger": "ms757w"
 }
